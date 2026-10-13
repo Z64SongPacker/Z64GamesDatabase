@@ -2812,10 +2812,6 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/28906041af66e9058de9fde01d54540d.png"
   },
   {
-    "game": "Chip's Challenege",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/66fb527fd84f0c26c5e7ad1b730d33b8.png"
-  },
-  {
     "game": "Terranigma",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/1cfcf0911a356ff7dec8682d2c5cdbaa.png"
   },
@@ -3150,7 +3146,7 @@
   },
   {
     "game": "The Amazing Digital Circus",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3f/The_Amazing_Digital_Circus_logo.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/84/Amazing_Digital_Circus_logo.png"
   },
   {
     "game": "Sonic CD",
@@ -3451,7 +3447,7 @@
   {
     "game": "Final Fantasy Versus XIII",
     "series": "Final Fantasy Series",
-    "logo": "https://static.wikia.nocookie.net/finalfantasy/images/7/74/Versus_logo.png"
+    "logo": "https://i.imgur.com/hGA9mOd.png"
   },
   {
     "game": "Final Fantasy XIII-2",
@@ -3992,12 +3988,6 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/60519c3dd22587d6de04d5f1e28bd41d.png"
   },
   {
-    "game": "Fire Emblem"
-  },
-  {
-    "game": "Fire Emblem Gaiden"
-  },
-  {
     "game": "Fire Emblem Heroes",
     "series": "Fire Emblem Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/9fa6e27bc99c0b69a035721498cc4710.png"
@@ -4141,7 +4131,7 @@
   {
     "game": "NBC TV Network",
     "series": "TV and Movies",
-    "logo": "https://www.nbc.com/generetic/generated/images/4fac8d8aaa7d8798a512dac0322d8d14.png"
+    "logo": "https://i.imgur.com/7MTzpM0.png"
   },
   {
     "game": "Ninja Gaiden",
@@ -4150,7 +4140,7 @@
   {
     "game": "One Piece",
     "series": "Anime",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_onepiece_2021.png"
+    "logo": "https://i.imgur.com/mdcjgDD.png"
   },
   {
     "game": "One Way Heroics",
@@ -4173,7 +4163,7 @@
   {
     "game": "Pokémon 2000",
     "series": "Pokémon Series",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/English_M02_Logo.png"
+    "logo": "https://i.imgur.com/y3h1J47.png"
   },
   {
     "game": "Pokémon Legends: Arceus",
@@ -4326,7 +4316,7 @@
   {
     "game": "T.A.T. Communications",
     "series": "TV and Movies",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b1/TAT_logo_1980.svg/revision/latest?cb=20211229055306"
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/TAT_Communications_logo.svg/330px-TAT_Communications_logo.svg.png"
   },
   {
     "game": "Teenage Mutant Ninja Turtles",
@@ -4353,7 +4343,7 @@
   {
     "game": "The Eric Andre Show",
     "series": "TV and Movies",
-    "logo": "https://static.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png/revision/latest?cb=20150624051214"
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Eric_Andr%C3%A9_Show_logo_%28without_acute_accent%29.svg/1920px-The_Eric_Andr%C3%A9_Show_logo_%28without_acute_accent%29.svg.png"
   },
   {
     "game": "The Legend of Zelda: Spirit Tracks 64",
@@ -4364,7 +4354,7 @@
   {
     "game": "The Price is Right",
     "series": "TV and Movies",
-    "logo": "https://static.wikia.nocookie.net/priceisright/images/5/5d/Tpir-logo-2022.png/revision/latest/scale-to-width-down/250?cb=20220924065326"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/ThePriceisRight20072022.png"
   },
   {
     "game": "The Secret Of Monkey Island",
@@ -4484,12 +4474,6 @@
     "game": "Castlevania Legends",
     "series": "Castlevania Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/243f869d999eccff48610a238db8f8ee.png"
-  },
-  {
-    "game": "castlevaniadungeon.net"
-  },
-  {
-    "game": "castlevaniadungeon.net (Jorge D. Fuentes)"
   },
   {
     "game": "Chibi-Robo! Park Patrol",
@@ -4622,20 +4606,11 @@
   {
     "game": "Lazy Town",
     "series": "TV and Movies",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/57/Lazy_town_logo.png/revision/latest?cb=20161026212503"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/35/LazyTown_final_logo.webp"
   },
   {
     "game": "LED Storm",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/cdda101035997acfaa6fdf17097f52b2.png"
-  },
-  {
-    "game": "Legend Of Zelda  Twilight Princess"
-  },
-  {
-    "game": "Legend of Zelda Master of Time"
-  },
-  {
-    "game": "Legend of Zelda Wind Waker"
   },
   {
     "game": "LISA: The Painful",
@@ -4656,12 +4631,6 @@
   {
     "game": "Magical Starsign",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/e60624d4c57e4c744eeabd54648d21c2.png"
-  },
-  {
-    "game": "Master of Time"
-  },
-  {
-    "game": "Master of Time (Demo)"
   },
   {
     "game": "Miitopia",
@@ -4766,9 +4735,6 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/186e1b0ba5b03fba924e4a2486692568.png"
   },
   {
-    "game": "Ruby Destiny Life of Guardians"
-  },
-  {
     "game": "RuneScape",
     "series": "RuneScape Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/28a1faa9dd2f69eeef4279da40dcdfe0.png"
@@ -4828,7 +4794,7 @@
   {
     "game": "Mykola Leontovych",
     "series": "Classical Compositions",
-    "logo": "https://lh3.googleusercontent.com/ci/AL18g_TNNrH-WdqzL30CkrnL5e3cHES7XJjU01zv3RRL0HU8riGqsKgxcqoLM2MQqS2SsmKAcB4ynamG"
+    "logo": "https://i.imgur.com/FrjGkpk.jpeg"
   },
   {
     "game": "Gustav Holst",
@@ -4845,7 +4811,7 @@
   {
     "game": "Adventures of Sonic the Hedgehog",
     "series": "Sonic the Hedgehog Series",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/AOSTHLogo.png/revision/latest/scale-to-width-down/300?cb=20200416230626"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3f/Adventures_of_Sonic_the_Hedgehog_%28DIC_Productions%2C_Inc.%29_logo.png"
   },
   {
     "game": "The Binding of Isaac: Antibirth",
@@ -4953,7 +4919,7 @@
   {
     "game": "Guilty Gear XX",
     "series": "Guilty Gear Series",
-    "logo": "https://static.wikia.nocookie.net/guilty-gear/images/7/7b/GGXX_Logo.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/30b2461d465821ea28e2b3ac9a1ef89b.png"
   },
   {
     "game": "The Great Ace Attorney Chronicles",
@@ -5167,10 +5133,6 @@
     "logo": "https://i.imgur.com/VhBTrrF.png"
   },
   {
-    "game": "Soulcalibur II",
-    "logo": "https://i.imgur.com/SG2MVQu.png"
-  },
-  {
     "game": "Fire Emblem: Gaiden",
     "series": "Fire Emblem Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/fb2e636577105f243646d6f1e199f0ba.png"
@@ -5203,7 +5165,7 @@
   {
     "game": "My Neighbor Totoro",
     "series": "Studio Ghibli",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/My_Neighbour_Totoro_%281988%2C_ENG%29.png/revision/latest/scale-to-width-down/1200?cb=20230910215556"
+    "logo": "https://i.imgur.com/FKyvb3Z.png"
   },
   {
     "game": "Porco Rosso",
@@ -5233,7 +5195,7 @@
   {
     "game": "DragonForce",
     "series": "Bands and Artists",
-    "logo": "https://label.napalmrecords.com/images/bands/dragonforce/2024-dragonforce-bandlogo-web.png"
+    "logo": "https://dragonforce.com/wp-content/uploads/2025/11/dragonforce-site-logo-blue.png"
   },
   {
     "game": "Elvis Crespo",
@@ -5318,15 +5280,12 @@
   {
     "game": "Summoning",
     "series": "Bands and Artists",
-    "logo": "https://label.napalmrecords.com/images/bands/summoning/summoning_band_logo_web_white_napalm_records.png"
+    "logo": "https://i.imgur.com/PbyMTe9.png"
   },
   {
     "game": "Toxic Holocaust",
     "series": "Bands and Artists",
     "logo": "https://s3.amazonaws.com/mnople/storefront-media/1502_db0df0dbfb73c9e9bbc650801a7cf2e8.png"
-  },
-  {
-    "game": "Unknown"
   },
   {
     "game": "Víctor Jara",
@@ -5346,7 +5305,7 @@
   {
     "game": "Merrie Melodies",
     "series": "TV and Movies",
-    "logo": "https://image.spreadshirtmedia.com/image-server/v1/designs/1039038594,width=178,height=178.png"
+    "logo": "https://i.imgur.com/JX7St7K.png"
   },
   {
     "game": "Nightmare Before Christmas",
@@ -5381,7 +5340,7 @@
   {
     "game": "Juan Luis Guerra 4.40",
     "series": "Bands and Artists",
-    "logo": "https://juanluisguerra.com/img/logo-jlg-white.svg"
+    "logo": "https://i.imgur.com/Ymy4XeE.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -1,0 +1,32 @@
+name: Z64 - Build ZIP
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions: write-all
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current branch
+        uses: actions/checkout@v6
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run build zip script
+        run: python "build_zip.py"
+        shell: bash
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "<>"
+          git add -A
+          git commit -m "Build zip for ${{ github.sha }}"
+          git pull
+          git push
+        shell: bash
