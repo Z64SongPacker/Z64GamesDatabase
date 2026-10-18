@@ -5423,5 +5423,78 @@
     "series": "Ys Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/3bc8f7011e08bfe6830c967b497bdf6d.png"
   },
+  {
+    "game": "Guilty Gear",
+    "series": "Guilty Gear Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ae951984b10287b9c3e716c3347f46a4.png"
+  },
+  {
+    "game": "Kirby's Return to Dream Land",
+    "series": "Kirby Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2cc73b24083105c3d488cc61b606d4f0.png"
+  },
+  {
+    "game": "Legend of Mana",
+    "series": "Mana Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2ea667a5830b59ba21bcd2315ddc2014.png"
+  },
+  {
+    "game": "Puyo Puyo Sun",
+    "series": "Puyo Puyo Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6f31db0cab7c10ab173107e1f53376b8.png"
+  },
+  {
+    "game": "Sailor Moon Another Story",
+    "series": "Sailor Moon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d351f787f92fd392b0c30979e85630ef.png"
+  },
+  {
+    "game": "Tales of Destiny 2",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0a64dcdcbcd89c8d0f1540e08ec12091.png"
+  },
+  {
+    "game": "The King of Fighters '95",
+    "series": "The King of Fighters Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4f52c16c93e61c9e1c25f529932b0071.png"
+  },
+  {
+    "game": "Touhou 12.8: Fairy Wars",
+    "series": "Touhou Project",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7ed94938c403c962c1798fe420759807.png"
+  },
+  {
+    "game": "Touhou CD 4: Retrospective 53 minutes",
+    "series": "Touhou Project",
+    "logo": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-04-retrospective-53-minutes/00%20Front.jpg"
+  },
+  {
+    "game": "Touhou Project",
+    "series": "Touhou Project",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Touhou_Project.svg/500px-Touhou_Project.svg.png"
+  },
+  {
+    "game": "Under Night In-Birth",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/aab8adb54ac1f1222e1842f33a4d161a.png"
+  },
+  {
+    "game": "Warriors Orochi 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6a4c174e71ea1d7c905c3004c2216e95.png"
+  },
+  {
+    "game": "X-Men vs. Street Fighter",
+    "series": "Vs. Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4974a9fe76a5b447c35ad12a15fa0260.png"
+  },
+  {
+    "game": "Ys Seven",
+    "series": "Ys Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/13d7dc096493e1f77fb4ccf3eaf79df1.png"
+  },
+  {
+    "game": "Ys VI: The Ark of Napishtim",
+    "series": "Ys Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7a873037e3a21153cc1ab9d7144fe125.png"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
