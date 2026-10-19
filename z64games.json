@@ -1560,6 +1560,7 @@
   },
   {
     "game": "Bishoujo Senshi Sailor Moon Super S: Zenin Sanka!! Shuyaku Soudatsusen",
+    "series": "Sailor Moon Series",
     "logo": "https://i.imgur.com/O9dFrdf.png",
     "short_name": "Sailor Moon SuperS"
   },
@@ -3800,6 +3801,7 @@
   },
   {
     "game": ".hack∕∕MUTATION",
+    "series": ".hack Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/ef1b9b0b9c5ad1de09b779f4f97ca59b.png"
   },
   {
@@ -5495,6 +5497,29 @@
     "game": "Ys VI: The Ark of Napishtim",
     "series": "Ys Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/7a873037e3a21153cc1ab9d7144fe125.png"
+  },
+  {
+    "game": ".hack∕∕INFECTION",
+    "series": ".hack Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/39aca26227b4762cf59f50e09159ca84.png"
+  },
+  {
+    "game": "Bonk's Adventure",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9b095e0906047abe5d69950086857a14.png"
+  },
+  {
+    "game": "Goemon's Great Adventure",
+    "series": "Ganbare Goemon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1217dfac1107f5d9fd05410319a1554a.png"
+  },
+  {
+    "game": "Mega Man X3",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ed169960635ad981cb7b65edf84b3f8f.png"
+  },
+  {
+    "game": "Ogre Battle 64",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/059def4514ca1bc7ff5781ac48428572.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
