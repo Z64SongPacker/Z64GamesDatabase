@@ -4751,6 +4751,7 @@
   },
   {
     "game": "Star Trek: The Next Generation",
+    "series": "Star Trek Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/b98c4ca554e37e02521749164b8129e2.png"
   },
   {
@@ -5542,6 +5543,26 @@
   {
     "game": "Project Zomboid",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/074ab924540667aad42a8ea3beccd19b.png"
+  },
+  {
+    "game": "Star Trek: Voyager",
+    "series": "Star Trek Series",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Star_Trek_Voyager_Logo.svg/500px-Star_Trek_Voyager_Logo.svg.png"
+  },
+  {
+    "game": "Homestuck",
+    "series": "TV and Movies",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/43dd406f58474de659891c9ca04ae3f4.png"
+  },
+  {
+    "game": "AriahKS",
+    "series": "Original Compositions"
+  },
+  {
+    "game": "Claude Debussy",
+    "series": "Classical Compositions",
+    "logo": "https://fcsymphony.org/wp-content/uploads/2023/03/Claude_Debussy_atelier_Nadar.jpg",
+    "short_name": "Debussy"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
